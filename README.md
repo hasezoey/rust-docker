@@ -5,4 +5,4 @@ This Project is for automated docker image builds
 Base: `rust:1-stretch`
 - Updates APT Cache
 - Upgrades APT Packages
-- Installs `kcov`
+<!-- - Installs `kcov` - it just dosnt work -->
