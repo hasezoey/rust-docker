@@ -1,4 +1,4 @@
-FROM rust:1-stretch
+FROM rust:1-jessie
 
 RUN apt-get update -y \
     && apt-get upgrade -y \
